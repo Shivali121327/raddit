@@ -19,4 +19,5 @@ end
 gem 'devise', '~> 3.5.1'
 gem 'bootstrap-sass'
 gem 'acts_as_votable'
+gem 'simple_form'
 
